@@ -1,0 +1,17 @@
+**Log on to main for more projects!***
+
+**Database Name: shouserental**
+
+**Developed by Surendra Tomar**
+
+**Recommended PHP Version 5.6 or Newer**
+
+
+**Admin Login Details**
+
+Username: admin
+Password: Password@123
+
+
+
+
